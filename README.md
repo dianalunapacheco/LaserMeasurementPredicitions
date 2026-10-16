@@ -1,4 +1,4 @@
-# Assignment 1 - Laser Measurement Predictions
+# Laser Measurement Predictions
 
 This repository contains all the files necessary for one-step prediction on laser intensity using a Long Short-Term Memory (LSTM) model. 
 
